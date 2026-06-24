@@ -1,16 +1,6 @@
-## Hi there 👋
+## Hi!
+I'm Max, a Computer Science Student at <a href = "https://www.utah.edu/">@University Of Utah</a>.
 
-<!--
-**tastefulblues/tastefulblues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy playing guitars, reading, and games. 💬
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Schoo
-- 🌱 I’m currently learning ... Computer Architecture
-- 👯 I’m looking to collaborate on ... Anything
-- 🤔 I’m looking for help with ... Everything
-- 💬 Ask me about ... My Life
-- 📫 How to reach me: ... Reddit
-- 😄 Pronouns: ... Max
-- ⚡ Fun fact: ... Nothing
--->
+Find me on <a href = "https://www.linkedin.com/in/max-j-hunt">@LinkedIn</a> or <a href = "https://app.joinhandshake.com/profiles/n848p8">@Handshake</a>.
